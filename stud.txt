@@ -4,5 +4,6 @@ varun:95
 preethi:65
 geetha:87
 
+raju:56
 geetha:80
 raj:90
