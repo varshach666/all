@@ -1,0 +1,5 @@
+harsha:60
+sai:97
+varun:95
+preethi:65
+geetha:87
